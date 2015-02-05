@@ -2,7 +2,7 @@
 
  Commodore 64 project by Chessforeva
 
- Chess Puzzles published in 1944
+ Chess Puzzles published in 1994
   (1994 Konemann, Laszlo Polgar)
 
    306  checkmates in 1 move
