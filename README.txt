@@ -2,6 +2,8 @@
 
  Commodore 64 project by Chessforeva
 
+   http://github.com/Chessforeva/c64hess
+
  Chess Puzzles published in 1994
   (1994 Konemann, Laszlo Polgar)
 
@@ -53,7 +55,6 @@ ESC - return
 In cursor mode:
 "N" - new game
 "U" - undo mode
-
 
 
 
