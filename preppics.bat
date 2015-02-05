@@ -1,0 +1,2 @@
+luajit preppics.lua
+pause
