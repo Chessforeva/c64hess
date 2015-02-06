@@ -2,6 +2,7 @@
 
  Commodore 64 project by Chessforeva
 
+   http://chessforeva.blogspot.com/2015/02/c64-chess-project.html
    http://github.com/Chessforeva/c64hess
 
  Chess Puzzles published in 1994

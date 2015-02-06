@@ -79,6 +79,7 @@ void PGN_text( BYTE u, BYTE ck )
 
 BYTE InfoStatus()
 {
+	WORD w;
 	BYTE r, loop=1, ck=0;
 	for( r=0 ; loop; r++)
 	{
@@ -122,6 +123,7 @@ BYTE InfoStatus()
 		{
 		if(gmResult>0)
 			{
+			for( w=clock(); clock()<w+100; );		// pause wait
 			RandomGamePointer();
 			gmResult = 0;
 			PGN_text(0,0);
